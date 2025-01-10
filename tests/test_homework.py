@@ -17,8 +17,8 @@ MODEL_COMPONENTS = [
     "LinearRegression",
 ]
 SCORES = [
-    -1.590,
-    -2.429,
+    -1.539, #-1.590
+    -2.360, #-2.429
 ]
 METRICS = [
     {
